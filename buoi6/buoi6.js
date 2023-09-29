@@ -1,3 +1,9 @@
+//bai2
+const kiemTraSoChan = (a) => {
+  return a % 2 === 0;
+};
+console.log(kiemTraSoChan(10));
+
 //bai4
 let bangChuCai = ["a", "b", "c", "d", "e"];
 let daySo = [5, 6, 7, 8];
@@ -7,5 +13,5 @@ let daySo = [5, 6, 7, 8];
 //console.log(bangChuCai);
 //let stt = bangChuCai.concat(daySo);
 //bangChuCai.reverse();
-let soPhanTuCuaMang = daySo.length;
-console.log(soPhanTuCuaMang);
+//let soPhanTuCuaMang = daySo.length;
+//console.log(soPhanTuCuaMang);
